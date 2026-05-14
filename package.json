@@ -1,0 +1,12 @@
+{
+    "name": "copa-2026",
+    "version": "1.0.0",
+    "description": "Site da Copa do Mundo 2026",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
